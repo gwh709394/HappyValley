@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  content: MyText
+  versionable_id: 1
+  version_type: MyString
+  name: MyString
+
+two:
+  user_id: 1
+  content: MyText
+  versionable_id: 1
+  version_type: MyString
+  name: MyString
